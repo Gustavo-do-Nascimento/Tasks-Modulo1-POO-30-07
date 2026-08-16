@@ -1,6 +1,6 @@
 # Tasks – Módulo 1 de Programação Orientada a Objetos
 
-<p>&emsp;Atividades práticas desenvolvidas durante os estudos de <strong>Programação Orientada a Objetos (POO)</strong> utilizando <strong>Java</strong>, realizadas no <strong>Módulo 1</strong> da unidade curricular Programação Orientada a Objetos</p>
+<p>&emsp;Atividades práticas desenvolvidas durante os estudos de <strong>Programação Orientada a Objetos (POO)</strong> utilizando <strong>Java</strong>, realizadas no <strong>Módulo 1</strong> da unidade curricular Programação Orientada a Objetos.</p>
 
 ---
 
